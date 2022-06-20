@@ -12,7 +12,7 @@ Examples codes based on TTGO
 
 - 20220620 : add ttgo-2, 傑森創工 example code
 
-- 20220620 : add FactoryTest files, 傑森創工 example code
+- 20220620 : add FactoryTest files, example code from https://sites.google.com/site/jmaathuis/arduino/lilygo-ttgo-t-display-esp32
 
 - 20220620 : add TFT_Print_Test, official example code of TFT_eSPI library 
 
