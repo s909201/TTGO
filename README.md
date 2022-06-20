@@ -10,7 +10,7 @@ Examples codes based on TTGO
 # Revision History
 - 20220620 : add TTGOAlienAttack, example code from https://www.youtube.com/watch?v=b8254--ibmM&ab_channel=VolosProjects
 
-- 20220620 : add ttgo-2, 傑森創工 example code
+- 20220620 : add ttgo-2, 傑森創工 example code from https://blog.jmaker.com.tw/ttgo-t-display/
 
 - 20220620 : add FactoryTest files, example code from https://sites.google.com/site/jmaathuis/arduino/lilygo-ttgo-t-display-esp32
 
