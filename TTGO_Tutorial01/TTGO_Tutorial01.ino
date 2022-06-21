@@ -1,4 +1,4 @@
-// TTGO Tutorial
+// TTGO Tutorial 01
 // Reference: https://www.youtube.com/watch?v=WFVjsxFMbSM&ab_channel=VolosProjects
 #include <TFT_eSPI.h>
 #include <SPI.h>
