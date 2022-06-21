@@ -8,7 +8,7 @@ Examples codes based on TTGO
 | IDE                | Arduino IDE   | 1.8.16  |
 
 # Revision History
-- 20220620 : add TTGO_Tutorial01, example code from https://www.youtube.com/watch?v=WFVjsxFMbSM&ab_channel=VolosProjects
+- 20220620 : add TTGO_Tutorial01~3, example code from https://www.youtube.com/watch?v=WFVjsxFMbSM&ab_channel=VolosProjects
 
 - 20220620 : add TTGOAlienAttack, example code from https://www.youtube.com/watch?v=b8254--ibmM&ab_channel=VolosProjects
 
