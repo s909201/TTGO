@@ -12,8 +12,10 @@ TFT_eSPI tft = TFT_eSPI(135,240);
 uint8_t rotation=135; // Range: 0~135, mapping to 0~270
 bool show;
 
-const char *ssid = "HH71V1_0801_2.4G";
-const char *password = "thisismyhouseandhome";
+const char *ssid = "elytone";
+const char *password = "30965487";
+//const char *ssid = "HH71V1_0801_2.4G";
+//const char *password = "thisismyhouseandhome";
 
 char buf[5];
 
